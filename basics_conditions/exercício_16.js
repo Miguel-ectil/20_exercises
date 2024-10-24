@@ -1,3 +1,5 @@
+// ==== Tempo de vida restante (fumante) ==== 
+
 let cigarrosPorDia = 4
 let anosFumando = 4
     
